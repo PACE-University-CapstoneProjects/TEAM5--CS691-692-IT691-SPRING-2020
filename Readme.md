@@ -1,9 +1,8 @@
 TEAM5--CS691-692-IT691-SPRING-2020
 
-Title:Machine Learning for Information Assurance in Supervisory Control and Data Acquisition Systems
+Title: Machine Learning for Information Assurance in Supervisory Control and Data Acquisition Systems
 
-Team Members: Peter Bayiokos, Constanza Cabrera-Mendoza, Sabrin Kaur Guron,
-Wildenslo Osias.
+Team Members: Peter Bayiokos, Constanza Cabrera-Mendoza, Sabrin Kaur Guron, Wildenslo Osias.
 
 Customers:Richard Alcalde, Steve Kim.
 
