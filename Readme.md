@@ -4,7 +4,7 @@ Title: Machine Learning for Information Assurance in Supervisory Control and Dat
 
 Team Members: Peter Bayiokos, Constanza Cabrera-Mendoza, Sabrin Kaur Guron, Wildenslo Osias.
 
-Customers:Richard Alcalde, Steve Kim.
+Customers: Richard Alcalde, Steve Kim.
 
 
 Abstract: Among the threats facing today’s critical infrastructures
