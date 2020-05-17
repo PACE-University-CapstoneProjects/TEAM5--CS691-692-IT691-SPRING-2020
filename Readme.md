@@ -1,12 +1,14 @@
 TEAM5--CS691-692-IT691-SPRING-2020
 
+Title:Machine Learning for Information Assurance in Supervisory Control and Data Acquisition Systems
+
 Team Members: Peter Bayiokos, Constanza Cabrera-Mendoza, Sabrin Kaur Guron,
 Wildenslo Osias.
 
 Customers:Richard Alcalde, Steve Kim.
 
 
-Among the threats facing today’s critical infrastructures
+Abstract: Among the threats facing today’s critical infrastructures
 such as power, water, telecommunication, and gas systems
 industries are cyber-attacks. To protect and defend themselves
 against cyber threats, these aforementioned infrastructures use
